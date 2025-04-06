@@ -1,4 +1,4 @@
-# 🌲 Random Forest Regression for Example Dataset
+# Random Forest Regression for Example Dataset
 
 This project uses a **Random Forest Regressor** to predict and visualize data trends based on an input dataset.
 
